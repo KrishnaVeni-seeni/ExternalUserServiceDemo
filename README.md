@@ -24,8 +24,8 @@ This project has a .NET service component that integrates with a public API (`ht
 ```bash
 git clone https://github.com/KrishnaVeni-seeni/ExternalUserServiceDemo.git
 cd ExternalUserServiceDemo
-API_project is my class library which interacts with the API and gets user information.
-I have created API_pr
+# API_project is my class library which interacts with the API and gets user information.
+# I have created API_pr
 
 # Restore & Build
 dotnet restore
@@ -34,12 +34,12 @@ dotnet build
 # Run Console App
 cd API_Console
 dotnet run
-I have added a getting a input to decide whether to show all users or only specific users based on userids.
+# I have added a getting a input to decide whether to show all users or only specific users based on userids.
 
 # Additional MVC Application
 cd API_MVC
 dotnet run
-This is a MVC web application with a frontend to show the values in a website
+# This is a MVC web application with a frontend to show the values in a website
 
 # Run Unit Tests
 cd ..
