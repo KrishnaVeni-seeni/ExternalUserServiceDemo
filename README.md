@@ -8,9 +8,9 @@ This project has a .NET service component that integrates with a public API (`ht
 
 | Project                   | Description                                  |
 |---------------------------|----------------------------------------------|
-| `ExternalUserService`     | Core class library with client/service/models|
+| `API_Project`             | Core class library with client/service/models|
 | `ExternalUserService.Tests` | Unit test project                          |
-| `Main_Console`            | Simple console app demo                      |
+| `API_Console `            | Simple console app demo                      |
 
 --------------------------------------------------------- Design Explanation  --------------------------------------------------------------
 1) Separate models, services, and exceptions, so each piece can have a single responsibility.
