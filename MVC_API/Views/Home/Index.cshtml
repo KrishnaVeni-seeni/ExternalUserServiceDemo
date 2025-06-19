@@ -1,0 +1,28 @@
+﻿@using API_Project.Model;
+@{
+    ViewData["Title"] = "User By ID";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+    <form asp-action="UsersByID" method="post">
+    <label>Enter User ID:</label>
+    <input type="number" name="id" required />
+    <button type="submit">Get User</button>
+</form>
+
+@if (ViewBag.User != null)
+{
+    var user = (User)ViewBag.User;
+    <hr />
+    <h3>User Details:</h3>
+    <p><strong>Name:</strong> @user.First_Name @user.Last_Name</p>
+    <p><strong>Email:</strong> @user.Email</p>
+    <img src="@user.Avatar" width="100" />
+}
+
+@if(ViewBag.Error!=null){
+    <hr/>
+    <h3>@ViewBag.Error</h3>
+}
+</div>

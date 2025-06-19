@@ -1,0 +1,23 @@
+@using API_Project.Model;
+
+<h2>Users</h2>
+
+<table>
+    <thead>
+        <tr>
+            <th>Avatar</th>
+            <th>Name</th>
+            <th>Email</th>
+        </tr>
+    </thead>
+    <tbody>
+    @foreach (var user in Model)
+    {
+        <tr>
+            <td><img src="@user.Avatar" width="50" /></td>
+            <td>@user.First_Name @user.Last_Name</td>
+            <td>@user.Email</td>
+        </tr>
+    }
+    </tbody>
+</table>

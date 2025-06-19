@@ -1,0 +1,12 @@
+D:\krishna\dotnet\API_Project\bin\Debug\net9.0\API_Project.deps.json
+D:\krishna\dotnet\API_Project\bin\Debug\net9.0\API_Project.dll
+D:\krishna\dotnet\API_Project\bin\Debug\net9.0\API_Project.pdb
+D:\krishna\dotnet\API_Project\obj\Debug\net9.0\API_Project.csproj.AssemblyReference.cache
+D:\krishna\dotnet\API_Project\obj\Debug\net9.0\API_Project.GeneratedMSBuildEditorConfig.editorconfig
+D:\krishna\dotnet\API_Project\obj\Debug\net9.0\API_Project.AssemblyInfoInputs.cache
+D:\krishna\dotnet\API_Project\obj\Debug\net9.0\API_Project.AssemblyInfo.cs
+D:\krishna\dotnet\API_Project\obj\Debug\net9.0\API_Project.csproj.CoreCompileInputs.cache
+D:\krishna\dotnet\API_Project\obj\Debug\net9.0\API_Project.dll
+D:\krishna\dotnet\API_Project\obj\Debug\net9.0\refint\API_Project.dll
+D:\krishna\dotnet\API_Project\obj\Debug\net9.0\API_Project.pdb
+D:\krishna\dotnet\API_Project\obj\Debug\net9.0\ref\API_Project.dll
