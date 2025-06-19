@@ -57,10 +57,6 @@ namespace API_Project.Services
             {
                 throw new DeserializationException("Error deserializing user response", ex);
             }
-            catch (Exception ex)
-            {
-                throw new UnexpectedException("Unexpected Exception bro: ", ex);
-            }
         }
 
         public async Task<IEnumerable<User>> GetAllUsersAsync()
@@ -113,10 +109,6 @@ namespace API_Project.Services
             catch (JsonException ex)
             {
                 throw new DeserializationException("Error deserializing user response", ex);
-            }
-            catch (Exception ex)
-            {
-                throw new UnexpectedException("Unexpected Exception bro: ", ex);
             }
         }
     }

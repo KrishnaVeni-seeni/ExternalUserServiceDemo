@@ -21,7 +21,7 @@ class Main_Console
         var Cache = new MemoryCache(new MemoryCacheOptions());
 
         var service = new ExternalUserService(httpClient, options, Cache);
-        
+
         User a;
         IEnumerable<User> b;
 

@@ -22,3 +22,4 @@ D:\krishna\dotnet\API_Console\obj\Debug\net9.0\ref\API_Console.dll
 D:\krishna\dotnet\API_Console\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
 D:\krishna\dotnet\API_Console\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
 D:\krishna\dotnet\API_Console\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\krishna\dotnet\API_Console\obj\Debug\net9.0\API_Console.sourcelink.json

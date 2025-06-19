@@ -6,6 +6,7 @@ D:\krishna\dotnet\API_Project\obj\Debug\net9.0\API_Project.GeneratedMSBuildEdito
 D:\krishna\dotnet\API_Project\obj\Debug\net9.0\API_Project.AssemblyInfoInputs.cache
 D:\krishna\dotnet\API_Project\obj\Debug\net9.0\API_Project.AssemblyInfo.cs
 D:\krishna\dotnet\API_Project\obj\Debug\net9.0\API_Project.csproj.CoreCompileInputs.cache
+D:\krishna\dotnet\API_Project\obj\Debug\net9.0\API_Project.sourcelink.json
 D:\krishna\dotnet\API_Project\obj\Debug\net9.0\API_Project.dll
 D:\krishna\dotnet\API_Project\obj\Debug\net9.0\refint\API_Project.dll
 D:\krishna\dotnet\API_Project\obj\Debug\net9.0\API_Project.pdb
